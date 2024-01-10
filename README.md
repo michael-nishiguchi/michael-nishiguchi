@@ -22,7 +22,8 @@ My name is Michael and I'm a software enginneer. I love solving real word proble
     <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/puppeteer-2e8555?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer Badge"/>
     <img src="https://img.shields.io/badge/cypress-00595d?style=for-the-badge&logo=cypress&logoColor=white" alt="JavaScript Badge"/>
-      <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Jira Badge" />
+      <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Jira Badge" />
       <img src="https://img.shields.io/badge/nginx-00A95C?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx badge" />
       <img src="https://img.shields.io/badge/linux-dd4814?style=for-the-badge&logo=linux&logoColor=white" alt="Linux badge" />
 
